@@ -1,4 +1,10 @@
 # Chalana_Chitram-SQL-Project
+
+## Files :
+- you can find the source code of entire project in `Phase-4/source_code` directory.
+- to see the working demo video of our project, please see `Phase-4/39.mp4`
+- `Phase-X` folders have their respective reports in Document format.
+
 > ## Introduction:
 > - Our database is dedicated to the Telugu film industry, popularly known as Tollywood.
 > - We meticulously gather and organize comprehensive information on movies, including details about the cast and crew involved in their production.
